@@ -5,7 +5,7 @@ A minimal Windows utility that temporarily disables keyboard input while you cle
 ## Features
 
 - **One-click lock/unlock** — Toggle keyboard input with a single button
-- **Zen dark-mode UI** — Distraction-free, minimal interface
+- **Simple Dark-mode UI** — Distraction-free, minimal interface
 - **Zero dependencies** — Uses only Python standard library
 - **Lightweight** — Minimal system resource usage
 
